@@ -20,8 +20,8 @@
         "branch": "cm-10.2"
     },    
     {
-        "repository": "CyanDreamProject/android_vendor_samsung_n7100",
-        "target_path": "vendor/samsung/n7100",
+        "repository": "CyanDreamProject/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
         "branch": "cm-10.2"
     }
 ]
