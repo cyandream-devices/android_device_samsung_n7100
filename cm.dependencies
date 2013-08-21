@@ -15,4 +15,9 @@
         "repository": "CyanogenMod/android_hardware_samsung",
         "target_path": "hardware/samsung"
     }
+    
+    {
+        "repository": "CyanDreamProject/android_vendor_samsung_n7100"
+        "target_path": "vendor/samsung/n7100"
+        "branch": "cm-10.2"
 ]
