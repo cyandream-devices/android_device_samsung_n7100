@@ -28,8 +28,8 @@ TARGET_SPECIFIC_HEADER_PATH := device/samsung/n7100/include
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/n7100/bluetooth
 
 # Kernel
-TARGET_KERNEL_SOURCE := kernel/samsung/neak-n7100-jb
-TARGET_KERNEL_CONFIG := neak_aosp_defconfig
+TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
+TARGET_KERNEL_CONFIG := cyanogenmod_n7100_defconfig
 
 # assert
 TARGET_OTA_ASSERT_DEVICE := t03g,n7100,GT-N7100
