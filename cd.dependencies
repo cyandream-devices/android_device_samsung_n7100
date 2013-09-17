@@ -5,7 +5,7 @@
         "branch": "cm-10.2"
     },
     {
-        "repository": "CyanDreamProject/neak-n7100-jb",
+        "repository": "CyanogenMod/neak-n7100-jb",
         "target_path": "kernel/samsung/neak-n7100-jb",
         "branch": "master"
     },
