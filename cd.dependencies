@@ -5,9 +5,9 @@
         "branch": "cm-10.2"
     },
     {
-        "repository": "psndna88/AGNi-pureCM",
-        "target_path": "kernel/samsung/AGNi-n7100",
-        "branch": "pureCM-smdk4412-N710x-CM10.2"
+        "repository": "CyanogenMod/android_kernel_samsung_smdk4412",
+        "target_path": "kernel/samsung/smdk4412",
+        "branch": "cm-10.2"
     },
     {
         "repository": "CyanogenMod/android_packages_apps_SamsungServiceMode",
